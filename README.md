@@ -7,6 +7,12 @@ Se trata de una página web, desplega en Github Pages, para mostrar mis habilida
 ## Como acceder
 Pulsa en la siguiente dirección para visitar mi página: https://jalvarezz13.github.io/
 
+## Capturas
+<div align="center">
+<h2>Diseño responsive</h2>
+<img src="https://github.com/jalvarezz13/jalvarezz13.github.io/blob/master/images/captures.png" width="90%" height="">
+</div>
+
 ## Tecnologías
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
